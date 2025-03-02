@@ -1,1 +1,1 @@
-This website has already been deployed to [(https://language-wire.vercel.app/)](https://language-wire.vercel.app/)
+This website has already been deployed to [(https://react-swiper-v1.vercel.app/)](https://react-swiper-v1.vercel.app/)
