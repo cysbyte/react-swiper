@@ -3,7 +3,7 @@ import { MdAccountCircle } from "react-icons/md";
 
 const Card = ( {image, price, currency, description} : {image: string, price: string, currency: string, description: string} ) => {
   return (
-    <div className='relative h-full w-[270px] flex flex-col justify-center items-center'>
+    <div className='relative h-full w-[230px] flex flex-col justify-center items-center'>
         <img className='absolute top-0 left-0 w-full h-full object-cover' src={image} alt="card" />
         <div className='relative z-10 w-full h-full flex justify-center items-center'>
             <div className='flex flex-col'>

@@ -11,7 +11,7 @@ const Hero = () => {
         <div className='flex justify-center items-center'>
             <button className='bg-primaryBlack text-white px-6 py-2.5 rounded-full'>Get Started</button>
         </div>
-        <div className='w-full h-full flex justify-center items-center'>
+        <div className='w-[80%] h-full mt-6 flex justify-center items-center'>
             <MySwiper />
         </div>
     </div>

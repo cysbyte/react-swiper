@@ -45,27 +45,7 @@ const data = [
     description: "Updating your wardrobe? Get cashback.",
     image: slide_image_4,
   },
-  {
-    id: 5,
-    price: "200",
-    currency: "CAD",
-    description: "Updating your wardrobe? Get cashback.",
-    image: slide_image_5,
-  },
-  {
-    id: 6,
-    price: "200",
-    currency: "AUD",
-    description: "Updating your wardrobe? Get cashback.",
-    image: slide_image_6,
-  },
-  {
-    id: 7,
-    price: "200",
-    currency: "CHF",
-    description: "Updating your wardrobe? Get cashback.",
-    image: slide_image_7,
-  },
+
 ];
 const MySwiper = () => {
   return (
@@ -82,8 +62,8 @@ const MySwiper = () => {
     coverflowEffect={{
       rotate: 0,
       stretch: 0,
-      depth: 100,
-      modifier: 2.5,
+      depth: 80,
+      modifier: 2,
     }}
     pagination={{ el: '.swiper-pagination', clickable: true }}
     navigation={{
