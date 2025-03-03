@@ -4,9 +4,9 @@ import slide_image_1 from "@/assets/home/img_1.jpg";
 import slide_image_2 from "@/assets/home/img_2.jpg";
 import slide_image_3 from "@/assets/home/img_3.jpg";
 import slide_image_4 from "@/assets/home/img_4.jpg";
-import slide_image_5 from "@/assets/home/img_5.jpg";
-import slide_image_6 from "@/assets/home/img_6.jpg";
-import slide_image_7 from "@/assets/home/img_7.jpg";
+// import slide_image_5 from "@/assets/home/img_5.jpg";
+// import slide_image_6 from "@/assets/home/img_6.jpg";
+// import slide_image_7 from "@/assets/home/img_7.jpg";
 
 import 'swiper/css';
 import 'swiper/css/effect-coverflow';
