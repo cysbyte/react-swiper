@@ -31,14 +31,14 @@
 
 @media (max-width: 500px) {
   .swiper_container {
-    height: 32rem;
+    height: 28rem;
   }
   .swiper-slide {
-    width: 21rem !important;
+    width: 16rem !important;
     height: 28rem !important;
   }
   .swiper-slide img {
-    width: 18rem !important;
+    width: 16rem !important;
     height: 24rem !important;
   }
 }
