@@ -11,7 +11,7 @@ const Card = ( {image, price, currency, description} : {image: string, price: st
                 <p className='text-[16px] leading-[24px]  font-normal font-openSans text-white'>{description}</p>
             </div> 
         </div>
-        <div className='relative z-10 rounded-2xl w-[200px] h-[55px] mb-10 bg-white flex  items-center justify-between px-3'>
+        <div className='relative z-10 rounded-2xl w-[200px] h-[55px] mb-24 md:mb-10 bg-white flex  items-center justify-between px-3'>
             <MdAccountCircle className='text-primaryBlack' size={30}/>
             <p className='text-[16px] leading-[24px] font-normal font-openSans text-primaryBlack'>{price} {currency}</p>
         </div>
